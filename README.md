@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdhanda&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdhanda" /> </p>
 
-- 🌱 I’m currently learning **Python, Android Development, Machine Learning**
+- 🌱 I’m currently learning **Golang, System Design & Architecture, Agents, Agentic Workflows**
 
-- 👨‍💻 All of my projects are available at [https://shubhamdhanda.github.io/My-Portfolio/](https://shubhamdhanda.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://shubhamdhanda.github.io/My-Portfolio/](https://shubhamdhanda.github.io/My-Portfolio/) - This is not up to date
 
-- 💬 Ask me about **C++ & MERN**
+- 💬 Ask me about **Golang, System Design, C++ & MERN**
 
 - 📫 How to reach me **shubhamdhanda944@gmail.com**
 
